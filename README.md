@@ -1,0 +1,1 @@
+# MinorProject7_PlantleafDiseaseDetection
